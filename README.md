@@ -1,4 +1,4 @@
-# Daily_cost
+# Daily_cost is the project to find your daily cost
 
 A new Flutter project.
 
